@@ -7,10 +7,10 @@ You can click the Preview link to take a look at your changes.
 ## Olá, meu nome é <strong>Amanda Saporiti!</strong>
 
 - ⚡ &nbsp; Explorando novas tecnologias e buscando codar projetos com muita criatividade e eficiência.
-- 🎓 &nbsp; Graduando **Engenharia de computação** na <a href="https://www.uninter.com/graduacao-ead/curso-engenharia-da-computacao/">UNINTER</a>.
-- 💼 &nbsp; Completei meu estágio na área de desenvolvimento de software e agora estou aprimorando meu conhecimento em novas tecnologias voltadas ao Front End como o ReactJs e NodeJs. 
+- 🎓 &nbsp; Graduando **Engenharia de computação** 
+- 💼 &nbsp; Aprimorando meu conhecimento em novas tecnologias voltadas ao Front End como o ReactJs e NodeJs. 
+- 📫 &nbsp; E-mail: amandasaporiti@gmail.com
 
----
 ## 🚀 Minhas Skills
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="Javascript" /></a>
