@@ -4,15 +4,14 @@
 amandasaporiti/amandasaporiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Olá, meu nome é <strong>{Amanda Saporiti}!</strong>
+## Olá, meu nome é <strong>Amanda Saporiti!</strong>
 
 - ⚡ &nbsp; Explorando novas tecnologias e buscando codar projetos com muita criatividade e eficiência.
 - 🎓 &nbsp; Graduando **Engenharia de computação** na <a href="https://www.uninter.com/graduacao-ead/curso-engenharia-da-computacao/">UNINTER</a>.
-- 💼 &nbsp; Completei meu estágio na área de desenvolvimento de software e agora estou aprimorando meu conhecimento em novas tecnologias. 
-- 🌱 &nbsp; Aprendendo mais sobre **ReactJs** e tecnologias voltadas ao front end.
-- 📫 &nbsp; E-mail: amandasaporiti@gmail.com
+- 💼 &nbsp; Completei meu estágio na área de desenvolvimento de software e agora estou aprimorando meu conhecimento em novas tecnologias voltadas ao Front End como o ReactJs e NodeJs. 
 
-## 🚀 Skills
+---
+## 🚀 Minhas Skills
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="Javascript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
@@ -33,7 +32,15 @@ You can click the Preview link to take a look at your changes.
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"/>
+      src="https://github-readme-stats.vercel.app/api?username=amandasaporiti&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/seu-usuario">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasaporiti&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    />
   </a>
 </p>
 
