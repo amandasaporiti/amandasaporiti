@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
       src="https://github-readme-stats.vercel.app/api?username=amandasaporiti&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/amandasaporiti">
     <img
       align="center"
       height="150em"
