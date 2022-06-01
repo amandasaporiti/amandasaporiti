@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato: ⤵️
 </p>
 
 <p align="left">
