@@ -6,9 +6,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Olá, meu nome é <strong>Amanda Saporiti!</strong>
 
-- ⚡ &nbsp; Explorando novas tecnologias e buscando codar projetos com muita criatividade e eficiência.
+- ⚡ &nbsp; Explorando novas tecnologias e buscando codar projetos com boas práticas de desenvolvimento, acessibilidade e performance.
 - 🎓 &nbsp; Graduando **Engenharia de computação** 
-- 💼 &nbsp; Aprimorando meu conhecimento em novas tecnologias voltadas ao Front End como o ReactJs e NodeJs. 
+- 💼 &nbsp; Aprimorando meu conhecimento em novas tecnologias voltadas ao Front End como o ReactJs, TypeScript e NextJs. 
 - 📫 &nbsp; E-mail: amandasaporiti@gmail.com
 
 ## 🚀 Minhas Skills
